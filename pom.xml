@@ -1,0 +1,63 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.example</groupId>
+  <artifactId>Maven_JMeter_FW</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+    <jmeter.version>5.5</jmeter.version>
+  </properties>
+
+  <build>
+    <plugins>
+      <!-- Java Compiler -->
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.8.1</version>
+        <configuration>
+          <source>${maven.compiler.source}</source>
+          <target>${maven.compiler.target}</target>
+        </configuration>
+      </plugin>
+
+      <!-- JMeter Plugin -->
+      <plugin>
+        <groupId>com.lazerycode.jmeter</groupId>
+        <artifactId>jmeter-maven-plugin</artifactId>
+        <version>3.4.0</version>
+        <configuration>
+          <jmeterVersion>${jmeter.version}</jmeterVersion>
+          <testFilesDirectory>${project.basedir}/src/test/jmeter</testFilesDirectory>
+          <resultsDirectory>${project.basedir}/target/jmeter/results</resultsDirectory>
+          <generateReports>true</generateReports>
+        </configuration>
+        <executions>
+          <!-- Step 1: Configure JMeter -->
+          <execution>
+            <id>configuration</id>
+            <goals>
+              <goal>configure</goal>
+            </goals>
+          </execution>
+
+          <!-- Step 2: Run JMeter tests -->
+          <execution>
+            <id>Demo_CURA.jmx</id>
+            <goals>
+              <goal>jmeter</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
+</project>

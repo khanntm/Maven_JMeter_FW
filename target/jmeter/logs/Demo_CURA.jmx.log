@@ -1,0 +1,287 @@
+2025-07-13 11:35:46,143 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2025-07-13 11:35:46,167 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-07-13 11:35:46,169 INFO o.a.j.JMeter: Setting System property: sun.net.http.allowRestrictedHeaders=true
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: Version 5.5
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: java.version=17.0.7
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: os.name=Windows 11
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: os.arch=amd64
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: os.version=10.0
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: file.encoding=Cp1252
+2025-07-13 11:35:46,180 INFO o.a.j.JMeter: java.awt.headless=true
+2025-07-13 11:35:46,181 INFO o.a.j.JMeter: Max memory     =536870912
+2025-07-13 11:35:46,181 INFO o.a.j.JMeter: Available Processors =8
+2025-07-13 11:35:46,192 INFO o.a.j.JMeter: Default Locale=English (United States)
+2025-07-13 11:35:46,192 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2025-07-13 11:35:46,192 INFO o.a.j.JMeter: JMeterHome=C:\24.Maven_JMeter_FW\target\ae58406e-8887-4074-8eea-773ad58602c1\jmeter
+2025-07-13 11:35:46,192 INFO o.a.j.JMeter: user.dir  =C:\24.Maven_JMeter_FW\target\ae58406e-8887-4074-8eea-773ad58602c1\jmeter\bin
+2025-07-13 11:35:46,193 INFO o.a.j.JMeter: PWD       =C:\24.Maven_JMeter_FW\target\ae58406e-8887-4074-8eea-773ad58602c1\jmeter\bin
+2025-07-13 11:35:55,738 INFO o.a.j.JMeter: IP: 169.254.111.76 Name: LVN01000434 FullName: LVN01000434.corp.capgemini.com
+2025-07-13 11:35:55,752 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\24.Maven_JMeter_FW\target\jmeter\reports\Demo_CURA'
+2025-07-13 11:35:55,756 INFO o.a.j.s.FileServer: Default base='C:\24.Maven_JMeter_FW\target\ae58406e-8887-4074-8eea-773ad58602c1\jmeter\bin'
+2025-07-13 11:35:55,757 INFO o.a.j.s.FileServer: Set new base='C:\24.Maven_JMeter_FW\target\jmeter\testFiles'
+2025-07-13 11:35:55,917 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-07-13 11:35:55,948 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-07-13 11:35:55,950 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-07-13 11:35:55,952 INFO o.a.j.s.SaveService: Loading file: C:\24.Maven_JMeter_FW\target\jmeter\testFiles\Demo_CURA.jmx
+2025-07-13 11:35:56,009 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-07-13 11:35:56,009 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-07-13 11:35:56,009 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-07-13 11:35:56,009 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-07-13 11:35:56,009 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-07-13 11:35:56,009 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-07-13 11:35:56,082 INFO o.a.j.JMeter: Creating summariser <summary>
+2025-07-13 11:35:56,085 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2025-07-13 11:35:56,086 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: C:\24.Maven_JMeter_FW\target\jmeter\results\20250713-Demo_CURA.csv
+2025-07-13 11:35:56,086 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: C:\24.Maven_JMeter_FW\target\ae58406e-8887-4074-8eea-773ad58602c1\jmeter\bin\reportgenerator.properties
+2025-07-13 11:35:56,086 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2025-07-13 11:35:56,091 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2025-07-13 11:35:56,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2025-07-13 11:35:56,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction is empty, not APDEX per transaction customization
+2025-07-13 11:35:56,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2025-07-13 11:35:56,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2025-07-13 11:35:56,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2025-07-13 11:35:56,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2025-07-13 11:35:56,094 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2025-07-13 11:35:56,101 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2025-07-13 11:35:56,109 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.totalTPS.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,109 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,110 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,110 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,110 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,111 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,111 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,111 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,111 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,111 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2025-07-13 11:35:56,114 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.filters_only_sample_series' not found, using default value 'true' instead.
+2025-07-13 11:35:56,114 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.series_filter' not found, using default value '' instead.
+2025-07-13 11:35:56,115 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.json.show_controllers_only' not found, using default value 'false' instead.
+2025-07-13 11:35:56,115 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2025-07-13 11:35:56,115 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2025-07-13 11:35:56,115 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2025-07-13 11:35:56,132 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-07-13 11:35:56,133 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-07-13 11:35:56,134 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-07-13 11:35:56,142 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-07-13 11:35:56,143 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-07-13 11:35:56,288 INFO o.a.j.JMeter: Running test (1752381356288)
+2025-07-13 11:35:56,301 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2025-07-13 11:35:56,301 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2025-07-13 11:35:56,301 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-07-13 11:35:56,301 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-07-13 11:35:56,315 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-07-13 11:35:56,316 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-07-13 11:35:56,323 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2025-07-13 11:35:56,325 INFO o.a.j.s.FileServer: Stored: User_Data.csv
+2025-07-13 11:35:56,333 INFO o.a.j.s.FileServer: Stored: Environment.csv
+2025-07-13 11:35:57,032 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = LVN01000434
+2025-07-13 11:35:57,037 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-07-13 11:35:57,039 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-07-13 11:35:57,039 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2025-07-13 11:35:57,039 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-07-13 11:35:57,039 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-07-13 11:35:57,211 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-07-13 11:35:57,220 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-07-13 11:35:57,220 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-07-13 11:35:57,310 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-07-13 11:35:57,313 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-07-13 11:35:57,313 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-07-13 11:36:00,957 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:00,960 INFO o.a.j.r.Summariser: summary +      3 in 00:00:05 =    0.6/s Avg:   768 Min:   293 Max:  1713 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:36:06,228 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:11,671 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:16,766 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:22,220 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:29,149 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:30,548 INFO o.a.j.r.Summariser: summary +     26 in 00:00:30 =    0.9/s Avg:   379 Min:   290 Max:  1165 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:36:30,549 INFO o.a.j.r.Summariser: summary =     29 in 00:00:34 =    0.8/s Avg:   419 Min:   290 Max:  1713 Err:     0 (0.00%)
+2025-07-13 11:36:34,994 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:40,513 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:46,114 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:51,406 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:36:56,724 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:00,477 INFO o.a.j.r.Summariser: summary +     26 in 00:00:30 =    0.9/s Avg:   380 Min:   289 Max:  1996 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:37:00,477 INFO o.a.j.r.Summariser: summary =     55 in 00:01:04 =    0.9/s Avg:   401 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:37:03,381 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:08,944 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:14,093 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:19,189 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:24,421 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:30,218 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:30,221 INFO o.a.j.r.Summariser: summary +     28 in 00:00:30 =    0.9/s Avg:   304 Min:   294 Max:   330 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:37:30,231 INFO o.a.j.r.Summariser: summary =     83 in 00:01:34 =    0.9/s Avg:   368 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:37:35,699 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:40,709 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:46,132 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:51,664 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:37:58,057 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:00,511 INFO o.a.j.r.Summariser: summary +     26 in 00:00:30 =    0.9/s Avg:   400 Min:   292 Max:  1688 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:38:00,513 INFO o.a.j.r.Summariser: summary =    109 in 00:02:04 =    0.9/s Avg:   376 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:38:04,841 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:10,137 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:15,259 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:20,773 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:25,852 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:30,055 INFO o.a.j.r.Summariser: summary +     28 in 00:00:30 =    0.9/s Avg:   309 Min:   297 Max:   404 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:38:30,057 INFO o.a.j.r.Summariser: summary =    137 in 00:02:34 =    0.9/s Avg:   362 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:38:31,080 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:36,211 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:41,824 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:47,319 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:52,410 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:38:57,993 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:00,640 INFO o.a.j.r.Summariser: summary +     28 in 00:00:31 =    0.9/s Avg:   326 Min:   300 Max:   908 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:39:00,642 INFO o.a.j.r.Summariser: summary =    165 in 00:03:04 =    0.9/s Avg:   356 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:39:04,177 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:09,381 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:14,853 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:19,901 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:25,811 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:30,713 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:30,716 INFO o.a.j.r.Summariser: summary +     28 in 00:00:30 =    0.9/s Avg:   309 Min:   299 Max:   376 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:39:30,717 INFO o.a.j.r.Summariser: summary =    193 in 00:03:34 =    0.9/s Avg:   349 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:39:35,615 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:40,520 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:45,574 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:51,287 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:39:57,644 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:01,938 INFO o.a.j.r.Summariser: summary +     28 in 00:00:31 =    0.9/s Avg:   379 Min:   297 Max:  1360 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:40:01,938 INFO o.a.j.r.Summariser: summary =    221 in 00:04:06 =    0.9/s Avg:   353 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:40:04,185 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:09,286 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:14,725 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:19,657 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:25,008 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:30,994 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:30,995 INFO o.a.j.r.Summariser: summary +     27 in 00:00:29 =    0.9/s Avg:   302 Min:   292 Max:   338 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:40:30,995 INFO o.a.j.r.Summariser: summary =    248 in 00:04:35 =    0.9/s Avg:   347 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:40:36,344 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:41,965 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:46,735 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:52,558 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:40:57,632 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:02,341 INFO o.a.j.r.Summariser: summary +     28 in 00:00:31 =    0.9/s Avg:   371 Min:   290 Max:  1651 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:41:02,342 INFO o.a.j.r.Summariser: summary =    276 in 00:05:06 =    0.9/s Avg:   350 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:41:04,381 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:10,076 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:16,609 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:22,884 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:28,218 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:30,056 INFO o.a.j.r.Summariser: summary +     24 in 00:00:28 =    0.9/s Avg:   365 Min:   299 Max:   806 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:41:30,057 INFO o.a.j.r.Summariser: summary =    300 in 00:05:34 =    0.9/s Avg:   351 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:41:33,520 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:38,674 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:43,998 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:49,011 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:54,041 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:41:59,120 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:00,288 INFO o.a.j.r.Summariser: summary +     29 in 00:00:30 =    1.0/s Avg:   308 Min:   298 Max:   324 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:42:00,289 INFO o.a.j.r.Summariser: summary =    329 in 00:06:04 =    0.9/s Avg:   347 Min:   289 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:42:05,369 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:10,436 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:15,785 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:20,621 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:25,880 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:30,302 INFO o.a.j.r.Summariser: summary +     28 in 00:00:30 =    0.9/s Avg:   357 Min:   288 Max:  1674 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:42:30,302 INFO o.a.j.r.Summariser: summary =    357 in 00:06:34 =    0.9/s Avg:   348 Min:   288 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:42:31,502 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:36,856 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:42,575 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:47,965 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:53,148 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:42:58,255 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:00,596 INFO o.a.j.r.Summariser: summary +     28 in 00:00:30 =    0.9/s Avg:   297 Min:   289 Max:   325 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:43:00,598 INFO o.a.j.r.Summariser: summary =    385 in 00:07:04 =    0.9/s Avg:   344 Min:   288 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:43:04,811 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:10,503 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:16,298 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:20,977 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:26,801 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:30,409 INFO o.a.j.r.Summariser: summary +     26 in 00:00:30 =    0.9/s Avg:   352 Min:   284 Max:  1385 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:43:30,412 INFO o.a.j.r.Summariser: summary =    411 in 00:07:34 =    0.9/s Avg:   345 Min:   284 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:43:32,694 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:38,424 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:43,972 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:49,230 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:43:54,684 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:00,641 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:00,642 INFO o.a.j.r.Summariser: summary +     27 in 00:00:30 =    0.9/s Avg:   290 Min:   281 Max:   306 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:44:00,643 INFO o.a.j.r.Summariser: summary =    438 in 00:08:04 =    0.9/s Avg:   341 Min:   281 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:44:07,442 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:12,333 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:17,752 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:22,874 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:28,078 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:30,128 INFO o.a.j.r.Summariser: summary +     27 in 00:00:29 =    0.9/s Avg:   353 Min:   290 Max:  1455 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:44:30,128 INFO o.a.j.r.Summariser: summary =    465 in 00:08:34 =    0.9/s Avg:   342 Min:   281 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:44:33,095 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:38,340 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:44,086 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:49,137 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:54,393 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:44:59,659 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:00,738 INFO o.a.j.r.Summariser: summary +     29 in 00:00:31 =    0.9/s Avg:   301 Min:   289 Max:   328 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:45:00,739 INFO o.a.j.r.Summariser: summary =    494 in 00:09:04 =    0.9/s Avg:   340 Min:   281 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:45:06,108 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:11,612 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:17,202 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:22,086 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:26,682 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:30,026 INFO o.a.j.r.Summariser: summary +     27 in 00:00:29 =    0.9/s Avg:   342 Min:   290 Max:  1429 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-07-13 11:45:30,028 INFO o.a.j.r.Summariser: summary =    521 in 00:09:34 =    0.9/s Avg:   340 Min:   281 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:45:32,229 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:37,660 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:42,985 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:48,844 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:54,224 INFO o.a.j.u.BeanShellTestElement: Redirect Path: #appointment
+2025-07-13 11:45:56,537 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Thread Group 1-1
+2025-07-13 11:45:56,545 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2025-07-13 11:45:56,547 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-07-13 11:45:56,547 INFO o.a.j.s.FileServer: Close: Environment.csv
+2025-07-13 11:45:56,547 INFO o.a.j.s.FileServer: Close: User_Data.csv
+2025-07-13 11:45:56,551 INFO o.a.j.r.Summariser: summary +     24 in 00:00:27 =    0.9/s Avg:   298 Min:   290 Max:   331 Err:     0 (0.00%) Active: 0 Started: 1 Finished: 1
+2025-07-13 11:45:56,551 INFO o.a.j.r.Summariser: summary =    545 in 00:10:00 =    0.9/s Avg:   338 Min:   281 Max:  1996 Err:     0 (0.00%)
+2025-07-13 11:45:56,551 INFO o.a.j.JMeter: Generating Dashboard
+2025-07-13 11:45:56,551 INFO o.a.j.r.d.ReportGenerator: Flushing result collector before report Generation
+2025-07-13 11:45:56,564 INFO o.a.j.r.p.NormalizerSampleConsumer: Using format, 'ms', to parse timeStamp field
+2025-07-13 11:45:56,735 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): beginDate produced 0 samples
+2025-07-13 11:45:56,735 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.AggregateConsumer#stopProducing(): endDate produced 0 samples
+2025-07-13 11:45:56,740 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ApdexSummaryConsumer#stopProducing(): apdexSummary produced 0 samples
+2025-07-13 11:45:56,740 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.RequestsSummaryConsumer#stopProducing(): requestsSummary produced 0 samples
+2025-07-13 11:45:56,747 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.StatisticsSummaryConsumer#stopProducing(): statisticsSummary produced 0 samples
+2025-07-13 11:45:56,750 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumer#stopProducing(): top5ErrorsBySampler produced 0 samples
+2025-07-13 11:45:56,752 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.ErrorsSummaryConsumer#stopProducing(): errorsSummary produced 0 samples
+2025-07-13 11:45:56,752 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.HitsPerSecondGraphConsumer#stopProducing(): hitsPerSecond produced 0 samples
+2025-07-13 11:45:56,779 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyVSRequestGraphConsumer#stopProducing(): latencyVsRequest produced 0 samples
+2025-07-13 11:45:56,779 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.SyntheticResponseTimeDistributionGraphConsumer#stopProducing(): syntheticResponseTimeDistribution produced 0 samples
+2025-07-13 11:45:56,779 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.BytesThroughputGraphConsumer#stopProducing(): bytesThroughputOverTime produced 0 samples
+2025-07-13 11:45:56,779 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.CodesPerSecondGraphConsumer#stopProducing(): codesPerSecond produced 0 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeVSRequestGraphConsumer#stopProducing(): responseTimeVsRequest produced 0 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): startIntervalControlerFilter produced 3815 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TotalTPSGraphConsumer#stopProducing(): totalTPS produced 0 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ActiveThreadsGraphConsumer#stopProducing(): activeThreadsOverTime produced 0 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TimeVSThreadGraphConsumer#stopProducing(): timeVsThreads produced 0 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeDistributionGraphConsumer#stopProducing(): responseTimeDistribution produced 0 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.TransactionsPerSecondGraphConsumer#stopProducing(): transactionsPerSecond produced 0 samples
+2025-07-13 11:45:56,797 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesGraphConsumer#stopProducing(): responseTimePercentiles produced 0 samples
+2025-07-13 11:45:56,800 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumer#stopProducing(): responseTimePercentilesOverTime produced 0 samples
+2025-07-13 11:45:56,802 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ResponseTimeOverTimeGraphConsumer#stopProducing(): responseTimesOverTime produced 0 samples
+2025-07-13 11:45:56,803 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.ConnectTimeOverTimeGraphConsumer#stopProducing(): connectTimeOverTime produced 0 samples
+2025-07-13 11:45:56,803 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.graph.impl.LatencyOverTimeGraphConsumer#stopProducing(): latenciesOverTime produced 0 samples
+2025-07-13 11:45:56,803 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): nameFilter produced 8175 samples
+2025-07-13 11:45:56,803 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.FilterConsumer#stopProducing(): dateRangeFilter produced 1635 samples
+2025-07-13 11:45:56,803 INFO o.a.j.r.p.AbstractSampleConsumer: class org.apache.jmeter.report.processor.NormalizerSampleConsumer#stopProducing(): normalizer produced 545 samples
+2025-07-13 11:45:56,803 INFO o.a.j.r.p.CsvFileSampleSource: produce(): 545 samples produced in 202ms on channel 0
+2025-07-13 11:45:56,803 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'json' of className:'org.apache.jmeter.report.dashboard.JsonExporter'
+2025-07-13 11:45:57,047 INFO o.a.j.r.d.JsonExporter: Found data for consumer statisticsSummary in context
+2025-07-13 11:45:57,047 INFO o.a.j.r.d.JsonExporter: Creating statistics for overall
+2025-07-13 11:45:57,047 INFO o.a.j.r.d.JsonExporter: Creating statistics for other transactions
+2025-07-13 11:45:57,047 INFO o.a.j.r.d.JsonExporter: Checking output folder
+2025-07-13 11:45:57,050 INFO o.a.j.r.d.JsonExporter: Writing statistics JSON to C:\24.Maven_JMeter_FW\target\jmeter\reports\Demo_CURA\statistics.json
+2025-07-13 11:45:57,102 INFO o.a.j.r.d.ReportGenerator: Exporting data using exporter:'html' of className:'org.apache.jmeter.report.dashboard.HtmlTemplateExporter'
+2025-07-13 11:45:57,109 INFO o.a.j.r.d.HtmlTemplateExporter: Will generate dashboard in folder: C:\24.Maven_JMeter_FW\target\jmeter\reports\Demo_CURA
+2025-07-13 11:45:57,368 INFO o.a.j.r.d.HtmlTemplateExporter: Report will be generated in: C:\24.Maven_JMeter_FW\target\jmeter\reports\Demo_CURA, creating folder structure
+2025-07-13 11:45:57,376 INFO o.a.j.r.d.TemplateVisitor: Copying folder from 'C:\24.Maven_JMeter_FW\target\ae58406e-8887-4074-8eea-773ad58602c1\jmeter\bin\report-template' to 'C:\24.Maven_JMeter_FW\target\jmeter\reports\Demo_CURA', got message: C:\24.Maven_JMeter_FW\target\jmeter\reports\Demo_CURA, found non empty folder with following content [C:\24.Maven_JMeter_FW\target\jmeter\reports\Demo_CURA\statistics.json], will be ignored
+2025-07-13 11:45:58,350 INFO o.a.j.JMeter: Dashboard generated

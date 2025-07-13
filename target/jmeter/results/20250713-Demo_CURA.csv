@@ -1,0 +1,546 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1752381357116,1713,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,1713,0,1408
+1752381359400,293,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8139,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,293,0,0
+1752381360639,299,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,299,0,0
+1752381361664,298,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,298,0,0
+1752381362632,324,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7479,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,323,0,0
+1752381363587,293,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,293,0,0
+1752381364880,298,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,298,0,0
+1752381365920,302,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,302,0,0
+1752381366755,297,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,297,0,0
+1752381368048,301,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,301,0,0
+1752381368931,295,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381370193,302,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,302,0,0
+1752381371363,302,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,302,0,0
+1752381372430,313,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,313,0,0
+1752381373262,302,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7470,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,302,0,0
+1752381374204,290,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,290,0,0
+1752381375088,640,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,640,0,0
+1752381376469,293,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,293,0,0
+1752381377283,348,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,348,0,0
+1752381378320,299,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,299,0,0
+1752381379549,365,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,365,0,0
+1752381380666,481,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,481,0,0
+1752381381915,297,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,297,0,0
+1752381383202,302,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,302,0,0
+1752381384492,313,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7474,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,313,0,0
+1752381385575,1165,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,1165,0,0
+1752381387260,751,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,751,0,0
+1752381388845,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381390149,397,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,397,0,0
+1752381391095,312,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7474,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,311,0,0
+1752381392372,296,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381393449,300,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,300,0,0
+1752381394690,299,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,299,0,0
+1752381395675,310,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,310,0,0
+1752381396522,307,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,307,0,0
+1752381397709,388,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,388,0,0
+1752381398999,472,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,472,0,0
+1752381400226,289,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,289,0,0
+1752381401231,298,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,298,0,0
+1752381402460,308,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,308,0,0
+1752381403681,296,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,296,0,0
+1752381404818,298,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,298,0,0
+1752381405799,307,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,307,0,0
+1752381407133,301,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,301,0,0
+1752381408192,299,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7475,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,299,0,0
+1752381409302,303,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,303,0,0
+1752381410137,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,295,0,0
+1752381411075,328,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,328,0,0
+1752381412011,306,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,306,0,0
+1752381413124,313,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7478,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,313,0,0
+1752381414127,334,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,333,0,0
+1752381415142,292,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,292,0,0
+1752381416430,292,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,292,0,0
+1752381417326,1996,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,1996,0,1215
+1752381420121,355,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,355,0,0
+1752381421072,300,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,299,0,0
+1752381422069,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381423068,304,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,304,0,0
+1752381424235,328,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,327,0,0
+1752381425400,305,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7471,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,305,0,0
+1752381426612,294,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,294,0,0
+1752381427488,311,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,311,0,0
+1752381428642,300,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,300,0,0
+1752381429509,302,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,302,0,0
+1752381430694,309,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,309,0,0
+1752381431875,330,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,330,0,0
+1752381432811,300,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,300,0,0
+1752381433791,300,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,300,0,0
+1752381434884,295,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,295,0,0
+1752381436094,306,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,306,0,0
+1752381437044,303,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,302,0,0
+1752381438068,300,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381438878,310,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,310,0,0
+1752381439927,301,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9094,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,301,0,0
+1752381440921,303,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,303,0,0
+1752381441834,300,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,300,0,0
+1752381443149,315,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,315,0,0
+1752381444113,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381445557,309,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,309,0,0
+1752381446599,301,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7475,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,301,0,0
+1752381447805,298,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,298,0,0
+1752381448626,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381449902,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381451237,303,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,303,0,0
+1752381452205,306,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,305,0,0
+1752381453263,301,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5112,157,1,1,https://katalon-demo-cura.herokuapp.com/,301,0,0
+1752381454197,307,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,307,0,0
+1752381455392,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381456496,300,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,300,0,0
+1752381457509,306,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,306,0,0
+1752381458562,302,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,302,0,0
+1752381459594,292,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,292,0,0
+1752381460407,305,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,305,0,0
+1752381461318,305,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,305,0,0
+1752381462341,307,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,307,0,0
+1752381463331,296,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381464612,303,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,303,0,0
+1752381465822,305,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,305,0,0
+1752381466863,306,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,306,0,0
+1752381467934,299,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,299,0,0
+1752381468840,651,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,651,0,0
+1752381470109,348,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,348,0,0
+1752381471359,300,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,300,0,0
+1752381472529,301,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,301,0,0
+1752381473425,312,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,312,0,0
+1752381474460,331,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,331,0,0
+1752381475795,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,296,0,0
+1752381477019,1035,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,1035,0,0
+1752381478823,1688,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9094,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,1688,0,1323
+1752381481088,312,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,311,0,0
+1752381482412,298,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,298,0,0
+1752381483251,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,297,0,0
+1752381484540,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381485641,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,304,0,0
+1752381486698,312,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7470,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,311,0,0
+1752381487691,297,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,297,0,0
+1752381488711,311,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,311,0,0
+1752381489823,310,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,310,0,0
+1752381490962,303,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,303,0,0
+1752381491856,404,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,404,0,0
+1752381493057,310,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,310,0,0
+1752381493888,305,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,304,0,0
+1752381494949,307,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,307,0,0
+1752381496020,319,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,319,0,0
+1752381496992,322,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,322,0,0
+1752381498232,301,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,301,0,0
+1752381499288,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381500465,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381501459,302,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,302,0,0
+1752381502534,304,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,304,0,0
+1752381503619,301,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,301,0,0
+1752381504438,311,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,311,0,0
+1752381505545,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,863,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381506447,307,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,307,0,0
+1752381507597,307,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,307,0,0
+1752381508449,305,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,305,0,0
+1752381509750,302,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,302,0,0
+1752381510759,317,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,317,0,0
+1752381511876,300,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,300,0,0
+1752381513031,305,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,305,0,0
+1752381514011,304,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,304,0,0
+1752381515053,302,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,302,0,0
+1752381515897,313,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,313,0,0
+1752381516981,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,304,0,0
+1752381518302,305,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,304,0,0
+1752381519337,307,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,307,0,0
+1752381520471,301,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,301,0,0
+1752381521517,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381522777,310,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,310,0,0
+1752381524083,309,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,309,0,0
+1752381525244,305,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,304,0,0
+1752381526099,307,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,306,0,0
+1752381527020,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381527886,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,304,0,0
+1752381528827,311,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,311,0,0
+1752381529948,301,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,301,0,0
+1752381530812,302,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,302,0,0
+1752381532099,309,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,309,0,0
+1752381533404,305,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,305,0,0
+1752381534262,304,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,304,0,0
+1752381535124,302,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,302,0,0
+1752381536402,311,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8139,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,311,0,0
+1752381537690,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381538721,303,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,303,0,0
+1752381539729,908,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7471,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,908,0,552
+1752381541657,303,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,303,0,0
+1752381542921,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381543867,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381544860,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,303,0,0
+1752381545871,313,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,313,0,0
+1752381546866,305,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,305,0,0
+1752381547908,300,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,300,0,0
+1752381549072,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381550192,318,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,318,0,0
+1752381551141,310,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,309,0,0
+1752381552091,301,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,301,0,0
+1752381553322,313,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,312,0,0
+1752381554538,314,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,314,0,0
+1752381555840,326,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,326,0,0
+1752381556926,324,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,324,0,0
+1752381557794,300,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,300,0,0
+1752381558723,300,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,300,0,0
+1752381559590,307,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,307,0,0
+1752381560791,308,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,308,0,0
+1752381561716,309,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,308,0,0
+1752381563026,302,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,302,0,0
+1752381564202,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381565506,305,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,305,0,0
+1752381566457,376,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,376,0,0
+1752381567480,315,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,315,0,0
+1752381568520,303,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,303,0,0
+1752381569359,305,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,305,0,0
+1752381570385,304,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,304,0,0
+1752381571243,312,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,312,0,0
+1752381572314,312,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,312,0,0
+1752381573379,299,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,298,0,0
+1752381574392,316,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,316,0,0
+1752381575309,304,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,304,0,0
+1752381576131,313,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9094,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,313,0,0
+1752381577096,313,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,312,0,0
+1752381578044,308,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,308,0,0
+1752381579030,309,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,309,0,0
+1752381580209,307,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,859,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,307,0,0
+1752381581092,305,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,305,0,0
+1752381581946,321,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,321,0,0
+1752381583125,298,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,298,0,0
+1752381584182,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,298,0,0
+1752381585257,315,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,315,0,0
+1752381586124,302,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,302,0,0
+1752381587426,311,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,311,0,0
+1752381588588,302,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,302,0,0
+1752381589564,772,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,772,0,0
+1752381590984,302,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,302,0,0
+1752381592099,381,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9094,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,381,0,0
+1752381593198,692,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,692,0,0
+1752381594776,348,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,348,0,0
+1752381596068,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,297,0,0
+1752381597341,302,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,302,0,0
+1752381598491,300,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,300,0,0
+1752381599324,334,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7471,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,334,0,0
+1752381600578,1360,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,1360,0,1067
+1752381602631,294,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,294,0,0
+1752381603869,315,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,315,0,0
+1752381604956,296,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,296,0,0
+1752381605995,300,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7471,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,300,0,0
+1752381606882,294,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,294,0,0
+1752381607953,298,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,298,0,0
+1752381608978,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381609880,296,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,296,0,0
+1752381611016,306,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,306,0,0
+1752381612291,295,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381613517,298,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,298,0,0
+1752381614420,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381615278,299,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,299,0,0
+1752381616439,308,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,308,0,0
+1752381617397,292,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,292,0,0
+1752381618253,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,295,0,0
+1752381619360,295,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,295,0,0
+1752381620439,338,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,338,0,0
+1752381621473,301,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,301,0,0
+1752381622678,300,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,300,0,0
+1752381623551,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,297,0,0
+1752381624709,299,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,299,0,0
+1752381625957,298,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,298,0,0
+1752381627138,302,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,302,0,0
+1752381628238,327,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,327,0,0
+1752381629575,310,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,310,0,0
+1752381630691,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381631917,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,304,0,0
+1752381632912,304,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,304,0,0
+1752381633908,299,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,299,0,0
+1752381635006,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381636037,304,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,304,0,0
+1752381637237,299,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,299,0,0
+1752381638107,304,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,304,0,0
+1752381639012,305,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,304,0,0
+1752381640210,809,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,809,0,0
+1752381641667,298,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,298,0,0
+1752381642486,345,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,345,0,0
+1752381643448,305,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7474,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,305,0,0
+1752381644547,295,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381645394,290,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,290,0,0
+1752381646432,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381647429,303,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,303,0,0
+1752381648601,314,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,314,0,0
+1752381649844,296,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,296,0,0
+1752381650946,305,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,305,0,0
+1752381652256,299,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,299,0,0
+1752381653186,303,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,302,0,0
+1752381654125,308,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7474,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,308,0,0
+1752381655095,295,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381656228,303,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,303,0,0
+1752381657326,305,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,305,0,0
+1752381658395,308,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,308,0,0
+1752381659635,349,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,348,0,0
+1752381660690,1651,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,1650,0,1346
+1752381662926,300,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,300,0,0
+1752381664077,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381665243,300,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,300,0,0
+1752381666519,314,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,314,0,0
+1752381667807,299,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,299,0,0
+1752381668889,302,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,302,0,0
+1752381669775,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381671036,313,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,312,0,0
+1752381672038,312,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,312,0,0
+1752381673350,304,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,304,0,0
+1752381674632,711,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,711,0,0
+1752381676301,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381677483,806,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,806,0,0
+1752381679198,361,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,361,0,0
+1752381680432,303,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,303,0,0
+1752381681427,321,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,321,0,0
+1752381682579,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,302,0,0
+1752381683531,733,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,733,0,0
+1752381684789,355,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7471,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,355,0,0
+1752381686033,305,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,305,0,0
+1752381687016,308,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,308,0,0
+1752381687915,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381688843,306,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,306,0,0
+1752381689745,309,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,309,0,0
+1752381690892,298,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,298,0,0
+1752381691966,299,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,299,0,0
+1752381693214,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381694100,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,304,0,0
+1752381695218,314,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,314,0,0
+1752381696335,309,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,308,0,0
+1752381697159,320,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8139,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,320,0,0
+1752381698360,312,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,312,0,0
+1752381699276,306,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,306,0,0
+1752381700377,310,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7474,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,310,0,0
+1752381701576,308,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,308,0,0
+1752381702871,304,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,304,0,0
+1752381703686,311,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,311,0,0
+1752381704995,306,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,306,0,0
+1752381705875,308,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,308,0,0
+1752381706715,302,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,302,0,0
+1752381707691,305,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,305,0,0
+1752381708703,307,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,307,0,0
+1752381709585,311,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,311,0,0
+1752381710606,308,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,308,0,0
+1752381711731,307,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,307,0,0
+1752381712832,308,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,307,0,0
+1752381713729,310,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,310,0,0
+1752381714752,324,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,324,0,0
+1752381715670,315,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,315,0,0
+1752381716634,305,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,305,0,0
+1752381717596,304,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,304,0,0
+1752381718812,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381719980,307,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,307,0,0
+1752381720923,1674,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,1674,0,1306
+1752381723227,306,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,306,0,0
+1752381724145,309,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,309,0,0
+1752381725058,310,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,310,0,0
+1752381725910,308,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,307,0,0
+1752381726955,336,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,336,0,0
+1752381728090,313,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,313,0,0
+1752381729242,310,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,310,0,0
+1752381730123,312,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,312,0,0
+1752381730987,363,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,363,0,0
+1752381731868,343,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,343,0,0
+1752381733050,297,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,297,0,0
+1752381734292,304,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,304,0,0
+1752381735497,288,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,288,0,0
+1752381736342,290,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,290,0,0
+1752381737267,296,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,296,0,0
+1752381738450,304,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5116,157,1,1,https://katalon-demo-cura.herokuapp.com/,304,0,0
+1752381739411,294,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,294,0,0
+1752381740329,292,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,292,0,0
+1752381741366,295,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,295,0,0
+1752381742423,316,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,316,0,0
+1752381743677,314,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,314,0,0
+1752381744749,296,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,296,0,0
+1752381745583,299,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,299,0,0
+1752381746712,301,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,301,0,0
+1752381747795,345,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,345,0,0
+1752381748745,300,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,300,0,0
+1752381750000,302,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,301,0,0
+1752381751210,293,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,293,0,0
+1752381752205,293,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,293,0,0
+1752381753173,304,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,304,0,0
+1752381754097,307,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,307,0,0
+1752381755343,290,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,290,0,0
+1752381756545,310,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,310,0,0
+1752381757718,293,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,293,0,0
+1752381759010,325,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,325,0,0
+1752381760113,292,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,292,0,0
+1752381761200,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,294,0,0
+1752381762278,296,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,296,0,0
+1752381763160,293,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,293,0,0
+1752381764214,294,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,294,0,0
+1752381765481,296,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,296,0,0
+1752381766693,298,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,298,0,0
+1752381767676,289,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,289,0,0
+1752381768896,291,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,291,0,0
+1752381769815,297,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,297,0,0
+1752381770985,295,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381771822,292,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,292,0,0
+1752381772838,308,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,308,0,0
+1752381773815,291,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,291,0,0
+1752381775050,300,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7470,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,299,0,0
+1752381776085,293,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,293,0,0
+1752381776959,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,295,0,0
+1752381777957,296,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,296,0,0
+1752381779026,306,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,306,0,0
+1752381780294,300,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,300,0,0
+1752381781379,1385,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,1385,0,1098
+1752381783458,337,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,337,0,0
+1752381784504,306,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,306,0,0
+1752381785329,291,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,291,0,0
+1752381786343,324,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,324,0,0
+1752381787449,287,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,287,0,0
+1752381788649,284,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,284,0,0
+1752381789903,600,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,600,0,0
+1752381791480,383,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,383,0,0
+1752381792648,295,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7475,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,295,0,0
+1752381793701,284,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,284,0,0
+1752381794903,301,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,300,0,0
+1752381796013,286,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,859,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,286,0,0
+1752381797014,292,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,292,0,0
+1752381798044,292,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,292,0,0
+1752381798946,303,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,303,0,0
+1752381799769,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,297,0,0
+1752381800691,286,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,286,0,0
+1752381801828,305,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9094,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,305,0,0
+1752381803132,294,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,294,0,0
+1752381804136,285,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,285,0,0
+1752381805375,289,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,289,0,0
+1752381806514,288,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,288,0,0
+1752381807569,298,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,298,0,0
+1752381808825,290,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,290,0,0
+1752381810120,288,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,288,0,0
+1752381811245,286,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,286,0,0
+1752381812410,284,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,284,0,0
+1752381813503,290,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,290,0,0
+1752381814700,291,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,291,0,0
+1752381815895,283,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,283,0,0
+1752381816869,305,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8143,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,305,0,0
+1752381818131,291,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,291,0,0
+1752381819270,288,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,288,0,0
+1752381820437,297,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,297,0,0
+1752381821291,286,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,286,0,0
+1752381822539,293,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,292,0,0
+1752381823690,282,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,282,0,0
+1752381824750,306,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,306,0,0
+1752381825814,295,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,295,0,0
+1752381826947,286,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,286,0,0
+1752381827768,285,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,285,0,0
+1752381828935,294,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,294,0,0
+1752381830070,291,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,291,0,0
+1752381831251,289,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,289,0,0
+1752381832183,285,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,285,0,0
+1752381833334,296,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8139,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,296,0,0
+1752381834396,287,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,287,0,0
+1752381835407,297,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,297,0,0
+1752381836679,296,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,296,0,0
+1752381837954,290,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,290,0,0
+1752381839130,281,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,281,0,0
+1752381840356,283,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,283,0,0
+1752381841288,295,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,295,0,0
+1752381842325,1455,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,1455,0,1114
+1752381844727,313,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,313,0,0
+1752381845986,331,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,331,0,0
+1752381846990,451,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,451,0,0
+1752381847960,402,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,402,0,0
+1752381848994,340,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,340,0,0
+1752381849945,299,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5112,157,1,1,https://katalon-demo-cura.herokuapp.com/,299,0,0
+1752381850959,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,297,0,0
+1752381852037,297,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,297,0,0
+1752381853332,292,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,292,0,0
+1752381854380,299,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,299,0,0
+1752381855283,292,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,292,0,0
+1752381856278,294,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,294,0,0
+1752381857452,300,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,300,0,0
+1752381858370,293,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,293,0,0
+1752381859537,295,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7467,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,295,0,0
+1752381860469,290,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,290,0,0
+1752381861388,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,294,0,0
+1752381862578,296,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,296,0,0
+1752381863647,313,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,313,0,0
+1752381864534,313,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7470,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,313,0,0
+1752381865779,294,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,294,0,0
+1752381866627,294,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,294,0,0
+1752381867775,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381868771,308,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,308,0,0
+1752381869828,300,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,300,0,0
+1752381870714,293,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,293,0,0
+1752381871878,292,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,292,0,0
+1752381872797,298,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,298,0,0
+1752381873805,299,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,299,0,0
+1752381874692,301,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,301,0,0
+1752381875967,297,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,297,0,0
+1752381877136,293,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,293,0,0
+1752381878040,299,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,299,0,0
+1752381879150,297,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,297,0,0
+1752381880158,313,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,313,0,0
+1752381881460,289,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,289,0,0
+1752381882645,309,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,309,0,0
+1752381883791,294,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,294,0,0
+1752381884847,298,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,298,0,0
+1752381885906,302,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,302,0,0
+1752381886788,297,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,297,0,0
+1752381887838,293,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8143,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,293,0,0
+1752381888824,311,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,311,0,0
+1752381889757,307,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,307,0,0
+1752381891050,299,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,298,0,0
+1752381892314,328,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,328,0,0
+1752381893221,293,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,293,0,0
+1752381894087,303,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,303,0,0
+1752381895263,315,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,315,0,0
+1752381896336,325,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,325,0,0
+1752381897239,293,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,293,0,0
+1752381898194,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,295,0,0
+1752381899347,308,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,855,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,308,0,0
+1752381900434,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9090,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,304,0,0
+1752381901569,303,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,303,0,0
+1752381902828,1429,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,1429,0,1138
+1752381904962,291,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,291,0,0
+1752381905788,318,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,318,0,0
+1752381906876,314,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,314,0,0
+1752381908067,295,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,295,0,0
+1752381909214,293,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,293,0,0
+1752381910412,291,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,291,0,0
+1752381911321,296,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,296,0,0
+1752381912264,297,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,297,0,0
+1752381913417,301,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,301,0,0
+1752381914536,293,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,293,0,0
+1752381915756,293,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,293,0,0
+1752381916899,301,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,851,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,301,0,0
+1752381917926,301,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,301,0,0
+1752381918769,327,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7466,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,327,0,0
+1752381919789,292,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5104,157,1,1,https://katalon-demo-cura.herokuapp.com/,292,0,0
+1752381920697,335,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,335,0,0
+1752381921793,293,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,859,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,293,0,0
+1752381922813,304,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,304,0,0
+1752381923675,303,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,303,0,0
+1752381924538,290,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,290,0,0
+1752381925414,310,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8123,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,310,0,0
+1752381926384,296,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,296,0,0
+1752381927524,291,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9078,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,290,0,0
+1752381928531,295,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,295,0,0
+1752381929730,295,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5096,157,1,1,https://katalon-demo-cura.herokuapp.com/,295,0,0
+1752381930647,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8139,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,295,0,0
+1752381931936,291,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,291,0,0
+1752381932942,302,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,302,0,0
+1752381934155,296,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,296,0,0
+1752381935168,293,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,293,0,0
+1752381936275,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8131,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,297,0,0
+1752381937329,330,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,330,0,0
+1752381938439,299,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,299,0,0
+1752381939685,296,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7462,1103,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,296,0,0
+1752381940543,291,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,291,0,0
+1752381941459,295,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8127,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,294,0,0
+1752381942652,331,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,331,0,0
+1752381943574,292,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,292,0,0
+1752381944865,307,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7463,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,307,0,0
+1752381946165,290,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5100,157,1,1,https://katalon-demo-cura.herokuapp.com/,290,0,0
+1752381947375,293,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8147,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,293,0,0
+1752381948549,294,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,843,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,294,0,0
+1752381949834,293,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9086,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,293,0,0
+1752381950729,302,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,302,0,0
+1752381951868,294,1. Rirect Home Page,200,OK,Thread Group 1-1,text,true,,5108,157,1,1,https://katalon-demo-cura.herokuapp.com/,294,0,0
+1752381952952,297,2. Click on Make Appoinment,200,OK,Thread Group 1-1,text,true,,8135,732,1,1,https://katalon-demo-cura.herokuapp.com/profile.php,296,0,0
+1752381953932,291,3.1 Input Username - Password,302,Found,Thread Group 1-1,text,true,,847,1032,1,1,https://katalon-demo-cura.herokuapp.com/authenticate.php,291,0,0
+1752381955022,293,3. 2 Login Redirect,200,OK,Thread Group 1-1,text,true,,9082,950,1,1,https://katalon-demo-cura.herokuapp.com/#appointment,293,0,0
+1752381956247,297,4. Book Appointment,200,OK,Thread Group 1-1,text,true,,7459,1100,1,1,https://katalon-demo-cura.herokuapp.com/appointment.php,297,0,0
