@@ -15,15 +15,10 @@ This is a Performance Testing Framework using **Apache JMeter**, integrated with
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## 🚀 How to Run Tests
 
 1. **Clone this repository**
    ```bash
    git clone https://github.com/khanntm/Maven_JMeter_FW.git
    cd Maven_JMeter_FW
-mvn clean verify
+   mvn clean verify
